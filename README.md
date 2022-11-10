@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently looking for a Software Enginner position, mostly on back-end
+- 🌱 I’m currently learning GitHub Actions CI/CD
+- 🤔 I’m interested on these topics: clean code, clean architecture, SOLID,  functional programing...
+
 <!--
 **santos-an/santos-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
